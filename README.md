@@ -15,3 +15,7 @@ Plan a task* in MATLAB with at least 5 positions, plot the robot and show your i
 Task 3 : 
 
 Solve the Inverse Kinematics for these positions in 3D space and obtain sets of Joint Parameters. Create an appropriate plot/animation in MATLAB (use Robotic Toolbox) for the motion of the robot. MOVE THE ROBOT between the points (film the motion of the robot and provide the video).
+
+
+
+![image](https://github.com/Shadanjaradat/RoboticKinematics/assets/89996888/37b63c4c-3c17-4ac5-a707-f23ee4278ade)
