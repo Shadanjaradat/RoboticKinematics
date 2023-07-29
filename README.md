@@ -18,4 +18,3 @@ Solve the Inverse Kinematics for these positions in 3D space and obtain sets of 
 
 
 
-![image](https://github.com/Shadanjaradat/RoboticKinematics/assets/89996888/37b63c4c-3c17-4ac5-a707-f23ee4278ade)
